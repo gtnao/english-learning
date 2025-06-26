@@ -39,13 +39,24 @@ english-expressions/
 │   └── 18_practical_words_phrases    # 実用的な単語・フレーズ（80個）
 │
 └── software-engineering/      # ソフトウェアエンジニア向け（500個）
-    ├── 01_architecture_discussion    # アーキテクチャ議論（100個）
-    ├── 02_code_review                # コードレビュー（80個）
-    ├── 03_technical_explanation      # 技術的説明（80個）
-    ├── 04_project_management         # プロジェクト管理（60個）
-    ├── 05_problem_solving_debugging  # 問題解決・デバッグ（60個）
-    ├── 06_team_collaboration         # チーム協働（60個）
-    └── 07_new_technologies_tools     # 最新技術・ツール（60個）
+    ├── 01_design_patterns            # 設計パターン（25個）
+    ├── 02_scalability_performance    # スケーラビリティ・パフォーマンス（25個）
+    ├── 03_maintainability_extensibility # 保守性・拡張性（25個）
+    ├── 04_architecture_tradeoffs     # アーキテクチャのトレードオフ（25個）
+    ├── 05_code_improvements          # コード改善提案（30個）
+    ├── 06_code_issues_questions      # コードの問題・質問（25個）
+    ├── 07_alternative_solutions      # 代替案の提示（25個）
+    ├── 08_algorithms_data_structures # アルゴリズムとデータ構造（30個）
+    ├── 09_implementation_details     # 実装詳細（25個）
+    ├── 10_specifications             # 仕様説明（25個）
+    ├── 11_estimation_progress        # 見積もりと進捗報告（30個）
+    ├── 12_risk_priority_deadline     # リスク・優先順位・締切（30個）
+    ├── 13_troubleshooting_analysis   # トラブルシューティング・分析（30個）
+    ├── 14_solutions_testing          # 解決策とテスト（30個）
+    ├── 15_collaboration_knowledge_sharing # コラボレーションと知識共有（30個）
+    ├── 16_best_practices_documentation # ベストプラクティスとドキュメント（30個）
+    ├── 17_technology_evaluation      # 技術評価（30個）
+    └── 18_migration_adoption         # 移行と採用（30個）
 ```
 
 ## 📝 各ファイルの形式
@@ -92,6 +103,18 @@ english-expressions/
 ## 🚀 今後の展開
 
 このプロジェクトは継続的に更新され、より実用的で学習しやすい形に進化していきます。フィードバックや追加してほしい表現があれば、ぜひお知らせください。
+
+## ✅ 完成状況
+
+- **汎用表現**: 全18カテゴリー（500表現）完成
+- **ソフトウェアエンジニア向け表現**: 全18カテゴリー（500表現）完成
+- **総計**: 1,000表現のコレクション完成
+
+各カテゴリーには以下が含まれています：
+- 詳細な文法解説と使用例
+- カジュアル版・フォーマル版の比較
+- 日本人が間違えやすいポイント
+- 実践的な使用場面の説明
 
 ---
 
