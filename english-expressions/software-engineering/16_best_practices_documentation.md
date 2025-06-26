@@ -1,4 +1,8 @@
-# Best Practices & Documentation
+# Best Practices & Documentation / ベストプラクティス・文書化
+
+設計原則、コーディング規約、文書化の重要性、品質向上のためのベストプラクティスに関する表現を収録。
+
+---
 
 ## 1. Let's follow the principle of least surprise
 

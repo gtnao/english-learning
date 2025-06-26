@@ -1,4 +1,8 @@
-# Collaboration & Knowledge Sharing
+# Collaboration & Knowledge Sharing / 協働・知識共有
+
+チーム内での効果的な知識共有、ペアプログラミング、メンタリング、技術的な相談や学習のための表現を収録。
+
+---
 
 ## 1. Let me bring you up to speed
 

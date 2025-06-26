@@ -1,4 +1,8 @@
-# Troubleshooting & Analysis
+# トラブルシューティング・分析 / Troubleshooting & Analysis
+
+問題の調査、原因分析、デバッグに関する表現を集めました。技術的な問題を体系的に解決するための表現です。
+
+---
 
 ## 1. It looks like we're dealing with...
 

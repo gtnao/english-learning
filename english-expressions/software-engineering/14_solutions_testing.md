@@ -1,4 +1,8 @@
-# Solutions & Testing
+# 解決策とテスト / Solutions & Testing
+
+問題解決の実装、テスト戦略、品質保証に関する表現を集めました。確実な解決策を実装し検証するための表現です。
+
+---
 
 ## 1. Let me try a different approach
 

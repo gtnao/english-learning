@@ -1,4 +1,8 @@
-# Technology Evaluation
+# Technology Evaluation / 技術評価
+
+新技術の評価、採用判断、技術選定のトレードオフ、ツール比較、技術的な意思決定に関する表現を収録。
+
+---
 
 ## 1. Let's evaluate the trade-offs
 

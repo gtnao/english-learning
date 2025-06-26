@@ -1,4 +1,8 @@
-# Migration & Adoption
+# Migration & Adoption / 移行・導入
+
+システム移行、新技術の段階的導入、レガシーシステムからの移行、採用促進のための戦略的表現を収録。
+
+---
 
 ## 1. Let's create a migration strategy
 
